@@ -1,1 +1,1 @@
-# Maham
+some simple python codes 
